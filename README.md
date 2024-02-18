@@ -1,1 +1,1 @@
-# myRepisitory
+# MyRepository
